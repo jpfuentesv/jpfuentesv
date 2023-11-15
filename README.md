@@ -1,3 +1,11 @@
+
+- **Lenguajes**: Java, PL/SQL, HTML, CSS, JavaScript, Python, TypeScript, SCSS
+- **Frameworks**: Django
+- **Bases de Datos**: Oracle, MySQL
+- **Desarrollo Frontend**: HTML, CSS, JavaScript, Angular, Ionic, Firebase
+- **Versatilidad**: Desarrollo tanto backend como frontend
+- **Intereses**: Desarrollo de aplicaciones de escritorio, tiendas online, desarrollo de sitios web
+
 ## ¡Hola, soy Juan Pablo Fuentes V! 👋
 
 ### Desarrollador de Software | Apasionado por la Tecnología
@@ -13,10 +21,11 @@ Soy un desarrollador de software motivado y proactivo con una fuerte pasión por
 ### Pila Tecnológica
 Aquí te muestro algunas habilidades adquiridas durante mi trayectoria:
 
-- **Lenguajes**: Java, PL/SQL, HTML, CSS, JavaScript, Python, TypeScript, SCSS
-- **Frameworks**: Django
-- **Bases de Datos**: Oracle, MySQL
-- **Desarrollo Frontend**: HTML, CSS, JavaScript, Angular, Ionic, Firebase
+- **Lenguajes**: Java, PL/SQL, HTML, CSS, JavaScript, Python, TypeScript, SCSS, C#
+- **Entorno de Ejecución**: Node.js, .NET
+- **Frameworks**: Entity Framework, LINQ, Razor, Django
+- **Bases de Datos**: Oracle, MySQL, SQL Server, Firebase
+- **Desarrollo Frontend**: HTML, CSS, JavaScript, Angular, Ionic
 - **Versatilidad**: Desarrollo tanto backend como frontend
 - **Intereses**: Desarrollo de aplicaciones de escritorio, tiendas online, desarrollo de sitios web
 
