@@ -1,6 +1,6 @@
 ## ¡Hola, soy Juan Pablo Fuentes V! 👋
 
-### Desarrollador de Software | Apasionado por la Tecnología | Aprendiz Continuo
+### Desarrollador de Software | Apasionado por la Tecnología
 
 [![Seguidores en GitHub](https://img.shields.io/github/followers/jpfuentesv89?label=Sígueme%20en%20GitHub&style=social)](https://github.com/jpfuentesv89)
 [![Seguir en Twitter](https://img.shields.io/twitter/follow/jpfuentesv89?style=social)](https://twitter.com/jpfuentesv89)
@@ -33,20 +33,7 @@ Aplicación de escritorio en Java, con MySQL, que muestra mi capacidad para crea
 
 Proyecto Java que ofrece una completa aplicación con características avanzadas para administrar operaciones de un minimercado.
 
-<div align="center">
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jpfuentesv89&repo=App_Minimarket"/>
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jpfuentesv89&repo=Minimarket_Compilado"/>
-</div>
-
 Encuentra más de mis proyectos en [mi perfil de GitHub](https://github.com/jpfuentesv89?tab=repositories).
-
-### Estadísticas de GitHub
-Algunas estadísticas interesantes sobre mi actividad en GitHub:
-
-- ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=jpfuentesv89)
-- ![Principales Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=jpfuentesv89)
-- [![trofeo](https://github-profile-trophy.redirectme.net/?username=jpfuentesv89)](https://github.com/ryo-ma/github-profile-trophy)
-- [![Racha de GitHub](https://github-readme-streak-stats.herokuapp.com/?user=jpfuentesv89)](https://git.io/streak-stats)
 
 ### Conéctate conmigo
 - **Email**: [jpfuentesv89@gmail.com](mailto:jpfuentesv89@gmail.com)
