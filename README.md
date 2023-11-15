@@ -13,7 +13,7 @@ Soy un desarrollador de software motivado y proactivo con una fuerte pasión por
 ### Pila Tecnológica
 Aquí te muestro algunas habilidades adquiridas durante mi trayectoria:
 
-- **Lenguajes**: Java, PL/SQL, HTML, CSS, JavaScript, Python, TypeScript, SCSS, C#
+- **Lenguajes**: Java, PL/SQL, PHP, JavaScript, Python, TypeScript, SCSS, C#
 - **Entorno de Ejecución**: Node.js, .NET
 - **Frameworks**: Entity Framework, LINQ, Razor, Django
 - **Bases de Datos**: Oracle, MySQL, SQL Server, Firebase
