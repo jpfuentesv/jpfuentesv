@@ -36,14 +36,7 @@ Proyecto Node.js Proyecto que combina Ionic, Angular y Firebase para construir u
 y puedes [explorar aquí](https://veteriapps.web.app/pages/home) para conocer más sobre su funcionamiento.
 
 
-
 Encuentra más de mis proyectos en [mi perfil de GitHub](https://github.com/jpfuentesv89?tab=repositories).
-
-### Conéctate conmigo
-
-- **Sitio web**: [Portafolio simpleDev.cl](https://www.simpledev.cl)
-- **Email**: [jpfuentesv89@gmail.com](mailto:jpfuentesv89@gmail.com)
-- **LinkedIn**: [Juan Pablo Fuentes V](https://www.linkedin.com/in/juan-pablo-fuentes-v/)
 
 ### Conéctate conmigo
 
