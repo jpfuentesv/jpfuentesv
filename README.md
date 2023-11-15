@@ -5,6 +5,7 @@
 [![Seguidores en GitHub](https://img.shields.io/github/followers/jpfuentesv89?label=Sígueme%20en%20GitHub&style=social)](https://github.com/jpfuentesv89)
 [![Seguir en Twitter](https://img.shields.io/twitter/follow/jpfuentesv89?style=social)](https://twitter.com/jpfuentesv89)
 [![Vistas](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/jpfuentesv89)](https://github.com/jpfuentesv89)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=jpfuentesv89&show_icons=true&count_private=true&include_all_commits=true&hide_border=true)
 
 ![Banner](https://github.com/jpfuentesv89/jpfuentesv89/blob/main/banner.jpeg)
 
