@@ -37,9 +37,9 @@ Proyecto Java que ofrece una completa aplicación con características avanzadas
 Encuentra más de mis proyectos en [mi perfil de GitHub](https://github.com/jpfuentesv89?tab=repositories).
 
 ### Conéctate conmigo
+
+- **Sitio web**: [Portafolio personal](https://www.simpledev.com)
 - **Email**: [jpfuentesv89@gmail.com](mailto:jpfuentesv89@gmail.com)
 - **LinkedIn**: [Juan Pablo Fuentes V](https://www.linkedin.com/in/juan-pablo-fuentes-v/)
-- **Twitter**: [@jpfuentesv89](https://twitter.com/jpfuentesv89)
-- **Sitio web**: [Portafolio personal](https://www.simpledev.com)
 
 Como individuo proactivo y comprometido, estoy abierto a nuevas oportunidades para colaborar, aprender y crecer. Si tienes preguntas, consultas o sugerencias, ¡no dudes en contactarme a través de cualquiera de las plataformas mencionadas! ¡Conéctate y creemos algo increíble juntos!
