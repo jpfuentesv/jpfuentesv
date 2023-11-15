@@ -2,9 +2,6 @@
 
 ### Desarrollador de Software | Apasionado por la Tecnología
 
-[![Seguidores en GitHub](https://img.shields.io/github/followers/jpfuentesv89?label=Sígueme%20en%20GitHub&style=social)](https://github.com/jpfuentesv89)
-[![Seguir en Twitter](https://img.shields.io/twitter/follow/jpfuentesv89?style=social)](https://twitter.com/jpfuentesv89)
-
 ![Banner](https://github.com/jpfuentesv89/jpfuentesv89/blob/main/banner.jpeg)
 
 ### Acerca de mí
@@ -38,6 +35,8 @@ y puedes [explorar aquí](https://veteriapps.web.app/pages/home) para conocer m�
 
 Encuentra más de mis proyectos en [mi perfil de GitHub](https://github.com/jpfuentesv89?tab=repositories).
 
+[![Seguidores en GitHub](https://img.shields.io/github/followers/jpfuentesv89?label=Sígueme%20en%20GitHub&style=social)](https://github.com/jpfuentesv89)
+[![Seguir en Twitter](https://img.shields.io/twitter/follow/jpfuentesv89?style=social)](https://twitter.com/jpfuentesv89)
 ### Conéctate conmigo
 
 <a href="https://www.simpledev.cl" target="_blank"><img src="https://img.shields.io/badge/Sitio%20web-simpleDev.cl-blue?style=flat&logo=appveyor" alt="Sitio web"></a>
