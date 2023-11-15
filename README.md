@@ -24,15 +24,15 @@ Aquí te muestro algunas habilidades adquiridas durante mi trayectoria:
 ### Proyectos Destacados
 Algunos de mis proyectos más notables:
 
-#### 1. [Minimarket Compilado](https://github.com/jpfuentesv89/Minimarket_Compilado)
-[![](https://img.shields.io/github/stars/jpfuentesv89/Minimarket_Compilado?style=social)](https://github.com/jpfuentesv89/Minimarket_Compilado)
+#### 1. [Tienda Web Django](https://github.com/jpfuentesv89/Tienda_Web_Django)
+[![](https://img.shields.io/github/stars/jpfuentesv89/Tienda_Web_Django?style=social)](https://github.com/jpfuentesv89/Tienda_Web_Django)
 
-Aplicación de escritorio en Java, con MySQL, que muestra mi capacidad para crear aplicaciones funcionales y eficientes. Su versión compilada se ejecuta como un archivo `.exe`.
+Desarrollo de una tienda web utilizando Django para administrar las operaciones y transacciones de compra y venta.
 
-#### 2. [App Minimarket](https://github.com/jpfuentesv89/App_Minimarket)
-[![](https://img.shields.io/github/stars/jpfuentesv89/App_Minimarket?style=social)](https://github.com/jpfuentesv89/App_Minimarket)
+#### 2. [Ionic Angular Firebase](https://github.com/jpfuentesv89/IonicAngularFirebase)
+[![](https://img.shields.io/github/stars/jpfuentesv89/IonicAngularFirebase?style=social)](https://github.com/jpfuentesv89/IonicAngularFirebase)
 
-Proyecto Java que ofrece una completa aplicación con características avanzadas para administrar operaciones de un minimercado.
+Proyecto que combina Ionic, Angular y Firebase para construir una aplicación multiplataforma de administración de datos.
 
 Encuentra más de mis proyectos en [mi perfil de GitHub](https://github.com/jpfuentesv89?tab=repositories).
 
