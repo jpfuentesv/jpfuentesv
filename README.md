@@ -29,8 +29,8 @@ Algunos de mis proyectos más notables:
 
 Desarrollo de una [tienda web Django](https://tiendadjango.simpledev.cl/) para administrar las operaciones y transacciones de compra y venta.
 
-#### 2. [App Node.js Ionic Angular Firebase](https://github.com/jpfuentesv89/IonicAngularFirebase)
-[![](https://img.shields.io/github/stars/jpfuentesv89/IonicAngularFirebase?style=social)](https://github.com/jpfuentesv89/IonicAngularFirebase)
+#### 2. [App Node.js Ionic Angular Firebase](https://github.com/jpfuentesv89/jpfuentesv89-IonicAngularFirebase)
+[![](https://img.shields.io/github/stars/jpfuentesv89/jpfuentesv89-IonicAngularFirebase?style=social)](https://github.com/jpfuentesv89/jpfuentesv89-IonicAngularFirebase)
 
 Proyecto Node.js Proyecto que combina Ionic, Angular y Firebase para construir una aplicación multiplataforma de administración de datos
 y puedes [explorar aquí](https://veteriapps.web.app/pages/home) para conocer más sobre su funcionamiento.
