@@ -38,7 +38,7 @@ Encuentra más de mis proyectos en [mi perfil de GitHub](https://github.com/jpfu
 
 ### Conéctate conmigo
 
-- **Sitio web**: [Portafolio simpleDev.cl](https://www.simpledev.com)
+- **Sitio web**: [Portafolio simpleDev.cl](https://www.simpledev.cl)
 - **Email**: [jpfuentesv89@gmail.com](mailto:jpfuentesv89@gmail.com)
 - **LinkedIn**: [Juan Pablo Fuentes V](https://www.linkedin.com/in/juan-pablo-fuentes-v/)
 
