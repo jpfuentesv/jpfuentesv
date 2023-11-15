@@ -2,13 +2,9 @@
 
 ### Desarrollador de Software | Apasionado por la Tecnología
 
-<a href="https://github.com/jpfuentesv89" target="_blank">
-  <img src="https://img.shields.io/github/followers/jpfuentesv89?label=Sígueme%20en%20GitHub&style=social" alt="Seguidores en GitHub">
-</a>
+[![Seguidores en GitHub](https://img.shields.io/github/followers/jpfuentesv89?label=Sígueme%20en%20GitHub&style=social)](https://github.com/jpfuentesv89)
 
-<a href="https://twitter.com/jpfuentesv89" target="_blank">
-  <img src="https://img.shields.io/twitter/follow/jpfuentesv89?style=social" alt="Seguir en Twitter">
-</a>
+[![Seguir en Twitter](https://img.shields.io/twitter/follow/jpfuentesv89?style=social)](https://twitter.com/jpfuentesv89)
 
 ![Banner](https://github.com/jpfuentesv89/jpfuentesv89/blob/main/banner.jpeg)
 
