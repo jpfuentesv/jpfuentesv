@@ -1,57 +1,57 @@
-## Hi there, I'm Juan Pablo Fuentes V! 👋
+## ¡Hola, soy Juan Pablo Fuentes V! 👋
 
-### Software Developer | Technology Enthusiast | Continuous Learner
+### Desarrollador de Software | Apasionado por la Tecnología | Aprendiz Continuo
 
-[![GitHub followers](https://img.shields.io/github/followers/jpfuentesv89?label=Follow%20me%20on%20GitHub&style=social)](https://github.com/jpfuentesv89)
-[![Twitter Follow](https://img.shields.io/twitter/follow/jpfuentesv89?style=social)](https://twitter.com/jpfuentesv89)
+[![Seguidores en GitHub](https://img.shields.io/github/followers/jpfuentesv89?label=Sígueme%20en%20GitHub&style=social)](https://github.com/jpfuentesv89)
+[![Seguir en Twitter](https://img.shields.io/twitter/follow/jpfuentesv89?style=social)](https://twitter.com/jpfuentesv89)
 
 ![Banner](https://github.com/jpfuentesv89/jpfuentesv89/blob/main/banner.jpeg)
 
-### About Me
-I am a driven and proactive software developer with a strong passion for coding and technology. With over three years of active involvement on GitHub, I have constantly focused on expanding my skill set and applying the latest tools and technologies to deliver value-driven solutions in the business domain.
+### Acerca de mí
+Soy un desarrollador de software motivado y proactivo con una fuerte pasión por la programación y la tecnología. A lo largo de más de tres años en GitHub, he enfocado mis esfuerzos en ampliar mi conjunto de habilidades y aplicar las últimas herramientas y tecnologías para ofrecer soluciones de valor en el mundo empresarial.
 
-### Tech Stack
-Here are some of the skills that I have acquired through my journey:
+### Pila Tecnológica
+Aquí te muestro algunas habilidades adquiridas durante mi trayectoria:
 
-- **Languages**: Java, PL/SQL, HTML, CSS, JavaScript, Python, TypeScript, SCSS
+- **Lenguajes**: Java, PL/SQL, HTML, CSS, JavaScript, Python, TypeScript, SCSS
 - **Frameworks**: Django
-- **Database**: Oracle, MySQL
-- **Frontend Development**: HTML, CSS, JavaScript, Angular, Ionic, Firebase
-- **Versatility**: Backend and frontend development
-- **Interests**: Desktop application development, online stores, website development
+- **Bases de Datos**: Oracle, MySQL
+- **Desarrollo Frontend**: HTML, CSS, JavaScript, Angular, Ionic, Firebase
+- **Versatilidad**: Desarrollo tanto backend como frontend
+- **Intereses**: Desarrollo de aplicaciones de escritorio, tiendas online, desarrollo de sitios web
 
-### Projects
-I have created a range of projects to showcase my proficiency and mastery across various technologies and tools. Here are a few highlighted ones:
+### Proyectos Destacados
+Algunos de mis proyectos más notables:
 
 #### 1. [Minimarket Compilado](https://github.com/jpfuentesv89/Minimarket_Compilado)
 [![](https://img.shields.io/github/stars/jpfuentesv89/Minimarket_Compilado?style=social)](https://github.com/jpfuentesv89/Minimarket_Compilado)
 
-This Java-based desktop application, built with MySQL, is a showcase of my ability to develop functional and efficient applications. The compiled version of this project can be executed as an `exe` file. Feel free to explore it and provide feedback!
+Aplicación de escritorio en Java, con MySQL, que muestra mi capacidad para crear aplicaciones funcionales y eficientes. Su versión compilada se ejecuta como un archivo `.exe`.
 
 #### 2. [App Minimarket](https://github.com/jpfuentesv89/App_Minimarket)
 [![](https://img.shields.io/github/stars/jpfuentesv89/App_Minimarket?style=social)](https://github.com/jpfuentesv89/App_Minimarket)
 
-In my pursuit of versatile application development, this project offers a comprehensive application written in Java. The software includes advanced features for managing the operations of a minimarket.
+Proyecto Java que ofrece una completa aplicación con características avanzadas para administrar operaciones de un minimercado.
 
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jpfuentesv89&repo=App_Minimarket"/>
    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jpfuentesv89&repo=Minimarket_Compilado"/>
 </div>
 
-Please check out my [GitHub repositories](https://github.com/jpfuentesv89?tab=repositories) to view my other projects and contributions.
+Encuentra más de mis proyectos en [mi perfil de GitHub](https://github.com/jpfuentesv89?tab=repositories).
 
-### GitHub Stats
-Here are some interesting stats about my GitHub activity:
+### Estadísticas de GitHub
+Algunas estadísticas interesantes sobre mi actividad en GitHub:
 
-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=jpfuentesv89)
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpfuentesv89)
-- [![trophy](https://github-profile-trophy.redirectme.net/?username=jpfuentesv89)](https://github.com/ryo-ma/github-profile-trophy)
-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jpfuentesv89)](https://git.io/streak-stats)
+- ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=jpfuentesv89)
+- ![Principales Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=jpfuentesv89)
+- [![trofeo](https://github-profile-trophy.redirectme.net/?username=jpfuentesv89)](https://github.com/ryo-ma/github-profile-trophy)
+- [![Racha de GitHub](https://github-readme-streak-stats.herokuapp.com/?user=jpfuentesv89)](https://git.io/streak-stats)
 
-### Connect with Me
+### Conéctate conmigo
 - **Email**: [jpfuentesv89@gmail.com](mailto:jpfuentesv89@gmail.com)
 - **LinkedIn**: [Juan Pablo Fuentes V](https://www.linkedin.com/in/juan-pablo-fuentes-v/)
 - **Twitter**: [@jpfuentesv89](https://twitter.com/jpfuentesv89)
-- **Website**: [Portafolio personal](https://www.simpledev.com)
+- **Sitio web**: [Portafolio personal](https://www.simpledev.com)
 
-As a proactive and committed individual, I am open to new opportunities to collaborate, learn, and grow. If you have any questions, inquiries, or suggestions, feel free to reach out to me through any of the aforementioned platforms. Let's connect and create something amazing together!
+Como individuo proactivo y comprometido, estoy abierto a nuevas oportunidades para colaborar, aprender y crecer. Si tienes preguntas, consultas o sugerencias, ¡no dudes en contactarme a través de cualquiera de las plataformas mencionadas! ¡Conéctate y creemos algo increíble juntos!
