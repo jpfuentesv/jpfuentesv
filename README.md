@@ -25,7 +25,7 @@ Aquí te muestro algunas habilidades adquiridas durante mi trayectoria:
 Algunos de mis proyectos más notables:
 
 #### 1. [Tienda Web Django](https://github.com/jpfuentesv89/Tienda_Web_Django)
-[![](https://img.shields.io/github/stars/jpfuentesv89/Tienda_Web_Django?style=social)](https://github.com/jpfuentesv89/Tienda_Web_Django)
+[![](https://img.shields.io/github/stars/jpfuentesv89/Tienda_Web_Django?style=social)]([https://github.com/jpfuentesv89/Tienda_Web_Django](https://github.com/jpfuentesv89/jpfuentesv89-Tienda_Web_Django))
 
 Desarrollo de una [tienda web Django](https://tiendadjango.simpledev.cl/) para administrar las operaciones y transacciones de compra y venta.
 
@@ -35,7 +35,7 @@ Desarrollo de una [tienda web Django](https://tiendadjango.simpledev.cl/) para a
 Proyecto Node.js que puedes [explorar aquí](https://veteriapps.web.app/pages/home) para conocer más sobre su funcionamiento.
 
 #### 3. [Ionic Angular Firebase](https://github.com/jpfuentesv89/IonicAngularFirebase)
-[![](https://img.shields.io/github/stars/jpfuentesv89/IonicAngularFirebase?style=social)](https://github.com/jpfuentesv89/IonicAngularFirebase)
+[![](https://img.shields.io/github/stars/jpfuentesv89/IonicAngularFirebase?style=social)]([https://github.com/jpfuentesv89/IonicAngularFirebase](https://github.com/jpfuentesv89/jpfuentesv89-IonicAngularFirebase))
 
 Proyecto que combina Ionic, Angular y Firebase para construir una aplicación multiplataforma de administración de datos.
 
