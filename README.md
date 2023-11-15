@@ -5,11 +5,6 @@
 [![Seguidores en GitHub](https://img.shields.io/github/followers/jpfuentesv89?label=Sígueme%20en%20GitHub&style=social)](https://github.com/jpfuentesv89)
 [![Seguir en Twitter](https://img.shields.io/twitter/follow/jpfuentesv89?style=social)](https://twitter.com/jpfuentesv89)
 
-### Visitas a mi perfil en GitHub
-
-[![Visitas](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/jpfuentesv89)](https://github.com/jpfuentesv89)
-
-
 ![Banner](https://github.com/jpfuentesv89/jpfuentesv89/blob/main/banner.jpeg)
 
 ### Acerca de mí
@@ -50,6 +45,17 @@ Encuentra más de mis proyectos en [mi perfil de GitHub](https://github.com/jpfu
 - **Email**: [jpfuentesv89@gmail.com](mailto:jpfuentesv89@gmail.com)
 - **LinkedIn**: [Juan Pablo Fuentes V](https://www.linkedin.com/in/juan-pablo-fuentes-v/)
 
+### Conéctate conmigo
+
+<a href="https://www.simpledev.cl" target="_blank"><img src="https://img.shields.io/badge/Sitio%20web-simpleDev.cl-blue?style=flat&logo=appveyor" alt="Sitio web"></a>
+<a href="mailto:jpfuentesv89@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-jpfuentesv89%40gmail.com-red?style=flat&logo=appveyor" alt="Email"></a>
+<a href="https://www.linkedin.com/in/juan-pablo-fuentes-v/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Juan%20Pablo%20Fuentes%20V-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
+
 Como individuo proactivo y comprometido, estoy abierto a nuevas oportunidades para colaborar, aprender y crecer. Si tienes preguntas, consultas o sugerencias, ¡no dudes en contactarme a través de cualquiera de las plataformas mencionadas! ¡Conéctate y creemos algo increíble juntos!
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=jpfuentesv89&show_icons=true&count_private=true&include_all_commits=true&hide_border=true)
+
+### Visitas a mi perfil en GitHub
+
+[![Visitas](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/jpfuentesv89)](https://github.com/jpfuentesv89)
