@@ -3,6 +3,7 @@
 ### Desarrollador de Software | Apasionado por la Tecnología
 
 ![Banner](https://github.com/jpfuentesv89/jpfuentesv89/blob/main/banner.jpg)
+<img src="https://komarev.com/ghpvc/?username=jpfuentesv89&label=Visitas&color=0e75b6&style=flat" alt="jpfuentesv89">
 
 ### Acerca de mí
 Soy un desarrollador de software motivado y proactivo con una fuerte pasión por la programación y la tecnología. A lo largo de más de tres años en GitHub, he enfocado mis esfuerzos en ampliar mi conjunto de habilidades y aplicar las últimas herramientas y tecnologías para ofrecer soluciones de valor en el mundo empresarial.
@@ -47,7 +48,3 @@ Encuentra más de mis proyectos en [mi perfil de GitHub](https://github.com/jpfu
 Como individuo proactivo y comprometido, estoy abierto a nuevas oportunidades para colaborar, aprender y crecer. Si tienes preguntas, consultas o sugerencias, ¡no dudes en contactarme a través de cualquiera de las plataformas mencionadas! ¡Conéctate y creemos algo increíble juntos!
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=jpfuentesv89&show_icons=true&count_private=true&include_all_commits=true&hide_border=true)
-
-### Visitas a mi perfil en GitHub
-
-<img src="https://komarev.com/ghpvc/?username=jpfuentesv89&label=Visitas&color=0e75b6&style=flat" alt="jpfuentesv89">
