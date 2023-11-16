@@ -6,6 +6,7 @@
 <a href="https://github.com/jpfuentesv89">
 <img src="https://komarev.com/ghpvc/?username=jpfuentesv89&label=Visitas&color=0e75b6&style=flat" alt="jpfuentesv89">
 </a>
+[![Seguidores en GitHub](https://img.shields.io/github/followers/jpfuentesv89?label=Sígueme%20en%20GitHub&style=social)](https://github.com/jpfuentesv89)
 
 ### Acerca de mí
 Soy un desarrollador de software motivado y proactivo con una fuerte pasión por la programación y la tecnología. A lo largo de más de tres años en GitHub, he enfocado mis esfuerzos en ampliar mi conjunto de habilidades y aplicar las últimas herramientas y tecnologías para ofrecer soluciones de valor en el mundo empresarial.
@@ -38,8 +39,13 @@ y puedes [explorar aquí](https://veteriapps.web.app/pages/home) para conocer m�
 
 Encuentra más de mis proyectos en [mi perfil de GitHub](https://github.com/jpfuentesv89?tab=repositories).
 
-[![Seguidores en GitHub](https://img.shields.io/github/followers/jpfuentesv89?label=Sígueme%20en%20GitHub&style=social)](https://github.com/jpfuentesv89)
-[![Seguir en Twitter](https://img.shields.io/twitter/follow/jpfuentesv89?style=social)](https://twitter.com/jpfuentesv89)
+<p>
+                    <a href="https://github.com/ryo-ma/github-profile-trophy"><img
+                            src="https://github-profile-trophy.vercel.app/?username=jpfuentesv89" alt="jpfuentesv89">
+                    </a>
+                </p>
+
+
 ### Conéctate conmigo
 
 <a href="https://www.simpledev.cl" target="_blank"><img src="https://img.shields.io/badge/Sitio%20web-simpleDev.cl-blue?style=flat&logo=appveyor" alt="Sitio web"></a>
