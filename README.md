@@ -3,7 +3,9 @@
 ### Desarrollador de Software | Apasionado por la Tecnología
 
 ![Banner](https://github.com/jpfuentesv89/jpfuentesv89/blob/main/banner.jpg)
+<a href="https://github.com/jpfuentesv89">
 <img src="https://komarev.com/ghpvc/?username=jpfuentesv89&label=Visitas&color=0e75b6&style=flat" alt="jpfuentesv89">
+</a>
 
 ### Acerca de mí
 Soy un desarrollador de software motivado y proactivo con una fuerte pasión por la programación y la tecnología. A lo largo de más de tres años en GitHub, he enfocado mis esfuerzos en ampliar mi conjunto de habilidades y aplicar las últimas herramientas y tecnologías para ofrecer soluciones de valor en el mundo empresarial.
