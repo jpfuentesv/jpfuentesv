@@ -40,7 +40,7 @@ Encuentra más de mis proyectos en [mi perfil de GitHub](https://github.com/jpfu
 ### Conéctate conmigo
 
 <a href="https://www.simpledev.cl" target="_blank"><img src="https://img.shields.io/badge/Sitio%20web-simpleDev.cl-blue?style=flat&logo=appveyor" alt="Sitio web"></a>
-<a href="mailto:jpfuentesv89@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-jpfuentesv89%40gmail.com-red?style=flat&logo=appveyor" alt="Email"></a>
+<a href="mailto:jpfuentesv89@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-jpfuentesv89%40gmail.com-red?style=flat&logo=gmail" alt="Email"></a>
 <a href="https://www.linkedin.com/in/juan-pablo-fuentes-v/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Juan%20Pablo%20Fuentes%20V-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 
