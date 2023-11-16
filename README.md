@@ -50,4 +50,4 @@ Como individuo proactivo y comprometido, estoy abierto a nuevas oportunidades pa
 
 ### Visitas a mi perfil en GitHub
 
-[![Visitas](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/jpfuentesv89)](https://github.com/jpfuentesv89)
+<img src="https://komarev.com/ghpvc/?username=jpfuentesv89&label=Visitas&color=0e75b6&style=flat" alt="jpfuentesv89">
