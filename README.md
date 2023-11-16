@@ -56,4 +56,6 @@ y puedes [explorar aquí](https://veteriapps.web.app/pages/home) para conocer m�
 
 Como individuo proactivo y comprometido, estoy abierto a nuevas oportunidades para colaborar, aprender y crecer. Si tienes preguntas, consultas o sugerencias, ¡no dudes en contactarme a través de cualquiera de las plataformas mencionadas! ¡Conéctate y creemos algo increíble juntos!
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jpfuentesv89&show_icons=true&locale=en&layout=compact" alt="jpfuentesv89" /></p>
+
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=jpfuentesv89&show_icons=true&count_private=true&include_all_commits=true&hide_border=true)
