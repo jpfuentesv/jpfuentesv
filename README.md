@@ -31,10 +31,6 @@ Desarrollo de una [tienda web Django](https://tiendadjango.simpledev.cl/) para a
 
 Proyecto Node.js Proyecto que combina Ionic, Angular y Firebase para construir una aplicación multiplataforma de administración de datos
 y puedes [explorar aquí](https://veteriapps.web.app/pages/home) para conocer más sobre su funcionamiento.
-<a href="#"
-                                            onclick="window.open('https://veteriapps.web.app/', 'VeteriApp', 'width=480,height=760, resizable=no, location=no');"
-                                            class="btn btn-bd-primary">Ver
-                                            más</a>
 
 Encuentra más de mis proyectos en [mi perfil de GitHub](https://github.com/jpfuentesv89?tab=repositories).
 
