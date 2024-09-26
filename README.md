@@ -14,7 +14,7 @@
 Soy un desarrollador apasionado por la programación y la tecnología, con un enfoque constante en mejorar mis habilidades. Durante mis más de tres años en GitHub, he trabajado en expandir mi conocimiento y aplicar las últimas herramientas y tecnologías, siempre buscando ofrecer soluciones que generen valor tangible en el ámbito empresarial.
 
 ### Pila Tecnológica
-Aquí te muestro algunas habilidades adquiridas durante mi trayectoria:
+Estas son las tecnologías y lenguajes utilizados durante mi trayectoria:
 
 - **Lenguajes**: ![C#](https://img.shields.io/badge/C%23-239120.svg?style=flat&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-008000?style=flat&logo=oracle&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
