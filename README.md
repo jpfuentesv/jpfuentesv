@@ -11,18 +11,25 @@
 </a>
 
 ### Acerca de mí
-Soy un desarrollador de software motivado y proactivo con una fuerte pasión por la programación y la tecnología. A lo largo de más de tres años en GitHub, he enfocado mis esfuerzos en ampliar mi conjunto de habilidades y aplicar las últimas herramientas y tecnologías para ofrecer soluciones de valor en el mundo empresarial.
+Soy un desarrollador apasionado por la programación y la tecnología, con un enfoque constante en mejorar mis habilidades. Durante mis más de tres años en GitHub, he trabajado en expandir mi conocimiento y aplicar las últimas herramientas y tecnologías, siempre buscando ofrecer soluciones que generen valor tangible en el ámbito empresarial.
 
 ### Pila Tecnológica
 Aquí te muestro algunas habilidades adquiridas durante mi trayectoria:
 
-- **Lenguajes**: Java, PL/SQL, PHP, JavaScript, Python, TypeScript, SCSS, C#
-- **Entorno de Ejecución**: Node.js, .NET
-- **Frameworks**: Entity Framework, LINQ, Razor, Django
-- **Bases de Datos**: Oracle, MySQL, SQL Server, Firebase
-- **Desarrollo Frontend**: HTML, CSS, JavaScript, Angular, Ionic
-- **Versatilidad**: Desarrollo tanto backend como frontend
-- **Intereses**: Desarrollo de aplicaciones de escritorio, tiendas online, desarrollo de sitios web
+- **Lenguajes**: ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-008000?style=flat&logo=oracle&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120.svg?style=flat&logo=c-sharp&logoColor=white)
+
+- **Entorno de Ejecución**: ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+
+- **Frameworks**: ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=flat&logo=dotnet&logoColor=white) ![LINQ](https://img.shields.io/badge/LINQ-0078D6?style=flat&logo=microsoft&logoColor=white) ![Razor](https://img.shields.io/badge/Razor-512BD4?style=flat&logo=dotnet&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+
+- **Bases de Datos**: ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+
+- **Desarrollo Frontend**: ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat&logo=ionic&logoColor=white)
+
+- **Versatilidad**: Desarrollo tanto en **backend** como **frontend**, con experiencia en aplicaciones **multiplataforma** y **sitios web**.
+
+- **Intereses**: Creación de soluciones de software a medida, aplicaciones empresariales, y desarrollo de aplicaciones móviles y sitios web.
+
 
 ### Proyectos Destacados
 Algunos de mis proyectos más notables:
@@ -54,7 +61,7 @@ y puedes [explorar aquí](https://veteriapps.web.app/pages/home) para conocer m�
 <a href="https://www.linkedin.com/in/juan-pablo-fuentes-v/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Juan%20Pablo%20Fuentes%20V-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 
-Como individuo proactivo y comprometido, estoy abierto a nuevas oportunidades para colaborar, aprender y crecer. Si tienes preguntas, consultas o sugerencias, ¡no dudes en contactarme a través de cualquiera de las plataformas mencionadas! ¡Conéctate y creemos algo increíble juntos!
+Mi proactividad y compromiso con el aprendizaje continuo me impulsan a buscar siempre nuevas oportunidades para colaborar, crecer y contribuir. Si tienes preguntas, consultas o sugerencias, no dudes en contactarme a través de cualquiera de las plataformas mencionadas. ¡Conectemos y trabajemos juntos para crear algo increíble!
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jpfuentesv89&show_icons=true&locale=en&layout=compact" alt="jpfuentesv89" /></p>
 
