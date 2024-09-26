@@ -11,7 +11,7 @@
 </a>
 
 ### Acerca de mí
-Soy un desarrollador apasionado por la programación y la tecnología, con un enfoque constante en mejorar mis habilidades. Durante mis más de tres años en GitHub, he trabajado en expandir mi conocimiento y aplicar las últimas herramientas y tecnologías, siempre buscando ofrecer soluciones que generen valor tangible en el ámbito empresarial.
+Soy un desarrollador apasionado por la programación y la tecnología, con un enfoque constante en mejorar mis habilidades. Durante mis más de tres años en el mundo del desarrollo, he trabajado en expandir mi conocimiento y aplicar las últimas herramientas y tecnologías, siempre buscando ofrecer soluciones que generen valor tangible en el ámbito empresarial.
 
 ### Pila Tecnológica
 Estas son las tecnologías y lenguajes utilizados durante mi trayectoria:
