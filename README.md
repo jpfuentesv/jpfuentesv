@@ -2,12 +2,12 @@
 
 ### Desarrollador de Software | Apasionado por la Tecnología
 
-![Banner](https://github.com/jpfuentesv89/jpfuentesv89/blob/main/banner.jpg)
+![Banner](https://github.com/jpfuentesv/jpfuentesv/blob/main/banner.png)
 
-[![Seguidores en GitHub](https://img.shields.io/github/followers/jpfuentesv89?label=Sígueme%20en%20GitHub&style=social)](https://github.com/jpfuentesv89)
+[![Seguidores en GitHub](https://img.shields.io/github/followers/jpfuentesv89?label=Sígueme%20en%20GitHub&style=social)](https://github.com/jpfuentesv)
 
-<a href="https://github.com/jpfuentesv89">
-<img src="https://komarev.com/ghpvc/?username=jpfuentesv89&label=Visitas&color=0e75b6&style=flat" alt="jpfuentesv89">
+<a href="https://github.com/jpfuentesv">
+<img src="https://komarev.com/ghpvc/?username=jpfuentesv&label=Visitas&color=0e75b6&style=flat" alt="jpfuentesv">
 </a>
 
 ### Acerca de mí
@@ -33,13 +33,13 @@ Estas son las tecnologías y lenguajes utilizados durante mi trayectoria:
 ### Proyectos Destacados
 Algunos de mis proyectos más notables:
 
-#### 1. [Tienda Web Django](https://github.com/jpfuentesv89/jpfuentesv89-Tienda_Web_Django)
-[![](https://img.shields.io/github/stars/jpfuentesv89/jpfuentesv89-Tienda_Web_Django?style=social)](https://github.com/jpfuentesv89/jpfuentesv89-Tienda_Web_Django)
+#### 1. [Tienda Web Django](https://github.com/jpfuentesv/jpfuentesv89-Tienda_Web_Django)
+[![](https://img.shields.io/github/stars/jpfuentesv/jpfuentesv89-Tienda_Web_Django?style=social)](https://github.com/jpfuentesv/jpfuentesv89-Tienda_Web_Django)
 
 Desarrollo de una [tienda web Django](https://tiendadjango.simpledev.cl/) para administrar las operaciones y transacciones de compra y venta.
 
-#### 2. [App Movil Veterinaria](https://github.com/jpfuentesv89/jpfuentesv89-IonicAngularFirebase)
-[![](https://img.shields.io/github/stars/jpfuentesv89/jpfuentesv89-IonicAngularFirebase?style=social)](https://github.com/jpfuentesv89/jpfuentesv89-IonicAngularFirebase)
+#### 2. [App Movil Veterinaria](https://github.com/jpfuentesv/jpfuentesv89-IonicAngularFirebase)
+[![](https://img.shields.io/github/stars/jpfuentesv/jpfuentesv89-IonicAngularFirebase?style=social)](https://github.com/jpfuentesv89/jpfuentesv89-IonicAngularFirebase)
 
 Proyecto Node.js Proyecto que combina Ionic, Angular y Firebase para construir una aplicación multiplataforma de administración de datos
 y puedes [explorar aquí](https://veteriapps.web.app/pages/home) para conocer más sobre su funcionamiento.
@@ -56,12 +56,12 @@ y puedes [explorar aquí](https://veteriapps.web.app/pages/home) para conocer m�
 ### Conéctate conmigo
 
 <a href="https://www.simpledev.cl" target="_blank"><img src="https://img.shields.io/badge/Sitio%20web-simpleDev.cl-blue?style=flat&logo=appveyor" alt="Sitio web"></a>
-<a href="mailto:jpfuentesv89@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-jpfuentesv89%40gmail.com-red?style=flat&logo=gmail" alt="Email"></a>
-<a href="https://www.linkedin.com/in/juan-pablo-fuentes-v/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Juan%20Pablo%20Fuentes%20V-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:jpfuentesv@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Email-jpfuentesv89%40gmail.com-red?style=flat&logo=gmail" alt="Email"></a>
+<a href="https://www.linkedin.com/in/jpfuentesv" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Juan%20Pablo%20Fuentes%20V-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 
 Mi proactividad y compromiso con el aprendizaje continuo me impulsan a buscar siempre nuevas oportunidades para colaborar, crecer y contribuir. Si tienes preguntas, consultas o sugerencias, no dudes en contactarme a través de cualquiera de las plataformas mencionadas. ¡Conectemos y trabajemos juntos para crear algo increíble!
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jpfuentesv89&show_icons=true&locale=en&layout=compact" alt="jpfuentesv89" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jpfuentesv&show_icons=true&locale=en&layout=compact" alt="jpfuentesv" /></p>
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=jpfuentesv89&show_icons=true&count_private=true&include_all_commits=true&hide_border=true)
