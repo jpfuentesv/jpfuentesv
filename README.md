@@ -4,7 +4,7 @@
 
 ![Banner](https://github.com/jpfuentesv/jpfuentesv/blob/main/banner.png)
 
-[![Seguidores en GitHub](https://img.shields.io/github/followers/jpfuentesv89?label=Sígueme%20en%20GitHub&style=social)](https://github.com/jpfuentesv)
+[![Seguidores en GitHub](https://img.shields.io/github/followers/jpfuentesv?label=Sígueme%20en%20GitHub&style=social)](https://github.com/jpfuentesv)
 
 <a href="https://github.com/jpfuentesv">
 <img src="https://komarev.com/ghpvc/?username=jpfuentesv&label=Visitas&color=0e75b6&style=flat" alt="jpfuentesv">
@@ -48,7 +48,7 @@ y puedes [explorar aquí](https://veteriapps.web.app/pages/home) para conocer m�
 
 <p>
                     <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-                            src="https://github-profile-trophy.vercel.app/?username=jpfuentesv89" alt="jpfuentesv89">
+                            src="https://github-profile-trophy.vercel.app/?username=jpfuentesv" alt="jpfuentesv">
                     </a>
                 </p>
 
