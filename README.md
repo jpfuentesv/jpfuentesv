@@ -46,8 +46,7 @@ Proyecto que combina Ionic, Angular y Firebase para construir una aplicación mu
 ---
 
 ## 🤝 Conéctate conmigo  
-
-[![Sitio web](https://img.shields.io/badge/Sitio%20web-simpleDev.cl-blue?style=flat&logo=appveyor)](https://www.simpledev.cl)  
+  
 [![Email](https://img.shields.io/badge/Email-jpfuentesv%40outlook.com-blue?style=flat&logo=microsoft-outlook)](mailto:jpfuentesv@outlook.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan%20Pablo%20Fuentes%20V-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jpfuentesv)  
 
