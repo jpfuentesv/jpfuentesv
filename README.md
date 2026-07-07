@@ -2,13 +2,13 @@
 
 ### <Senior Full-Stack Engineer />
 
-> Transformo requerimientos complejos en software robusto, rápido y escalable. Más de 6 años creando productos digitales con un enfoque obsesivo en la calidad del código y la experiencia de usuario.
-
-> **"El código es un medio, no el fin."** 
-
 <a href="https://github.com/jpfuentesv"><img src="https://komarev.com/ghpvc/?username=jpfuentesv&label=Visitas&color=fbbf24&style=flat-square" alt="Visitas de jpfuentesv"></a>
 
 ![Banner](https://github.com/jpfuentesv/jpfuentesv/blob/main/banner.png)
+
+> Transformo requerimientos complejos en software robusto, rápido y escalable. Más de 6 años creando productos digitales con un enfoque obsesivo en la calidad del código y la experiencia de usuario.
+
+> **"El código es un medio, no el fin."** 
 
 [![Seguidores en GitHub](https://img.shields.io/github/followers/jpfuentesv?label=Sígueme%20en%20GitHub&style=social)](https://github.com/jpfuentesv)  
 
