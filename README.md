@@ -6,7 +6,7 @@
 
 ![Banner](https://github.com/jpfuentesv/jpfuentesv/blob/main/banner.png)
 
-> Transformo requerimientos complejos en software robusto, rápido y escalable. Más de 6 años creando productos digitales con un enfoque obsesivo en la calidad del código y la experiencia de usuario.
+> Transformo requerimientos complejos en software robusto, rápido y escalable. Más de 6 años creando productos digitales con enfoque en la calidad del código y la experiencia de usuario.
 
 > **"El código es un medio, no el fin."** 
 
